@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/sssinaaa"><img src="https://api.daily.dev/devcards/42d04022c48b4c63bccb316ed268d2d4.png?r=gk6" width="400" alt="Sina's Dev Card"/></a>
+
 <!--
 **sssinaaa/sssinaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
